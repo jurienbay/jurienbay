@@ -1,0 +1,4 @@
+Contact: mailto:admin@jurienbay.xyz
+Expires: 2028-09-31T14:00:00.000Z
+Preferred-Languages: en
+Canonical: https://www.jurienbay.xyz/.well-known/security.txt
