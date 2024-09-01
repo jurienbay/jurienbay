@@ -1,0 +1,7 @@
+instructors:
+  - name: Edward
+    profile_pic: /_images/pp/inst.jpg
+
+teaching_assistants:
+  - name: Lab tech
+    profile_pic: /_images/pp/assist.jpg
