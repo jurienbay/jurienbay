@@ -28,10 +28,9 @@ is $$360^{\circ}$$.
 
 A proportion of a circle is therefore $$\frac{\theta}{360}$$ and therefore;
 
-\\[
+$$\require{ams}$$
 \begin{align}
 d & = \left\( 2 \pi r \right\) \left\( \frac{\theta}{360} \right\) \\
   & = \frac{\pi r \theta}{180} \text{ and } \frac{180}{\pi} \approx 57.296. \\
   & \implies d \approx \frac{r \theta}{60} \text{ where } \theta \text{ is in degrees}.
 \end{align}
-\\]
