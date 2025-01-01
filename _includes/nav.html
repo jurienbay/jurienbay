@@ -7,3 +7,11 @@
     </li>
     {% endfor %}
 </ul>
+<script type="module">
+	import init, { main_loop } from './q1in60.js';
+	async function run() {
+		await init();
+		main_loop();
+	}
+	run();
+</script>
